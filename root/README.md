@@ -26,6 +26,9 @@ If you are running Linux or Mac you may need to use sudo for commands with
 ```bash
 npm install -g grunt
 ```
+
+We are using a project level protractor plugin so you don't need to install protractor right now but for future reference, to install protractor, do the following:
+
 * Install [protractor](https://github.com/angular/protractor)
 ```bash
 npm intall -g protractor
