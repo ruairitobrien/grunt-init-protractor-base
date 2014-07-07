@@ -9,11 +9,11 @@ You need [node](http://nodejs.org/)
 
 You also need [git](http://git-scm.com/)
 
-1. Install [grunt](http://gruntjs.com/)
+* Install [grunt](http://gruntjs.com/)
 ```bash
 npm install -g grunt
 ```
-2. Install [grunt-init](https://github.com/gruntjs/grunt-init) to use this scaffold
+* Install [grunt-init](https://github.com/gruntjs/grunt-init) to use this scaffold
 ```bash
 npm install -g grunt-init
 ```

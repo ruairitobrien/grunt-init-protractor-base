@@ -22,15 +22,15 @@ Open a terminal.
 If you are running Linux or Mac you may need to use sudo for commands with
 'npm install -g'
 
-1. Install [grunt](http://gruntjs.com/) if you haven't already
+* Install [grunt](http://gruntjs.com/) if you haven't already
 ```bash
 npm install -g grunt
 ```
-1. Install [protractor](https://github.com/angular/protractor)
+* Install [protractor](https://github.com/angular/protractor)
 ```bash
 npm intall -g protractor
 ```
-2. Install [webdriver](http://docs.seleniumhq.org/docs/03_webdriver.jsp)
+* Install [webdriver](http://docs.seleniumhq.org/docs/03_webdriver.jsp)
 using the manager bundled with protractor
 ```bash
 webdriver-manager update
