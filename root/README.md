@@ -31,7 +31,7 @@ We are using a project level protractor plugin so you don't need to install prot
 
 * Install [protractor](https://github.com/angular/protractor)
 ```bash
-npm intall -g protractor
+npm install -g protractor
 ```
 * Install [webdriver](http://docs.seleniumhq.org/docs/03_webdriver.jsp)
 using the manager bundled with protractor
@@ -41,7 +41,10 @@ webdriver-manager update
 
 ### Install Project Dependencies
 
-Install package.json dependencies from the project root with: `npm install`
+Install package.json dependencies from the project root with: 
+```bash
+npm install
+```
 
 This will create a node_modules directory in the project root and download
 any project dependencies defined in package.json to that directory.
